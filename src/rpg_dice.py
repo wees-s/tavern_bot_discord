@@ -17,3 +17,6 @@ def d20():
 
 def d100():
     return random.randint(1, 100)
+
+def d22():
+    return random.randint(0, 21)
